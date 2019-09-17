@@ -1,0 +1,182 @@
+.firstLinks{
+    height: 20px;
+    position: relative;
+    top:5px;
+}
+#gmail{
+    position: fixed;
+    left: 1095px;
+    top: 16px;
+}
+#images{
+    position: fixed;
+    left: 1150px;
+    top: 16px;
+}
+#imgOne{
+    position: fixed;
+    left: 1215px;
+    top: 16px;
+}
+#imgTwo{
+    width:50px;
+    height:50px;
+    position: fixed;
+    left: 1250px;
+    top: 10px;
+}
+img.round{
+    border-radius: 30px;
+}
+.google{
+    position: fixed;
+    left: 2000px;
+    top: 16px;
+    height: 30px;
+    width: 30px;
+}
+.midElements{
+    height: 225px;
+    position: relative;
+    top: 125px;
+}
+#imgThree{
+    Position: fixed;
+    left:525px;
+    top: 200px;
+}
+#srchBox{
+    Position: fixed;
+    top: 320px;
+    left: 370px;
+}
+#btn1{
+    position: fixed;
+    top: 390px;
+    left: 535px;
+}
+#btn2{
+    position: fixed;
+    top: 390px;
+    left: 670px;
+}
+.scndLinks{
+    height: 15px;
+    position: relative;
+    top: 130px;
+}
+#barhead{
+    position: fixed;
+    left: 425px;
+    top: 450px;
+}
+#one{
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 450px;
+    left: 553px;
+}
+#two{
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 450px;
+    left: 620px;      
+}
+#three{
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 450px;
+    left: 693px;
+}
+#four{
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 450px;
+    left: 795px;
+}
+#five{
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    top: 450px;
+    left: 830px
+}
+.uganda{
+    height: 35px;
+    width: 1305px;
+    background-color: whitesmoke;
+    border-top: 1px solid lightgrey;
+    border-right: 1px solid lightgrey;
+    border-left: 1px solid lightgrey;
+    position: fixed;
+    top: 554px;
+}
+h5{
+    position: fixed;
+    left: 25px;
+    bottom: 24px;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 0px;
+}
+.lastLinks{
+    height: 35px;
+    width: 1305px;
+    background-color: whitesmoke;
+    border:1px solid lightgrey;
+    position: fixed;
+    top: 590px;
+}
+#a{
+    position: fixed;
+    bottom: 20px;
+    left: 25px;
+}
+#b{
+    position: fixed;
+    bottom: 20px;
+    left: 120px;
+}
+#c{
+    position: fixed;
+    bottom: 20px;
+    left: 200px;
+}
+#d{
+    position: fixed;
+    bottom: 20px;
+    left: 260px;
+}
+#e{
+    Position: fixed;
+    bottom: 20px;
+    left: 1105px;
+}
+#f{
+    position: fixed;
+    bottom: 20px;
+    left: 1175px;
+}
+#g{
+    position: fixed;
+    bottom: 20px;
+    left: 1235px;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
+#languages li a{
+    list-style-type: none;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(23, 8, 156);
+}
+#options li a{
+    list-style-type: none;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(89, 86, 112);
+}
+a{
+    text-decoration: none;
+}
